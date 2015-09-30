@@ -12,4 +12,4 @@ Task :
 Coding/QA/Verifying : Mohamad Iqbal Ariff
 
 # Demo
-[![Demo CountPages alpha](http://puu.sh/ktc16/d963ec0080.webm)](http://puu.sh/ktc16/d963ec0080.webm)
+[![Demo CountPages alpha](http://webm.host/ce224/vid.webm)](http://webm.host/ce224/)
