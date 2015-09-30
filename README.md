@@ -9,8 +9,14 @@ Coding/QA/Verifying : Mohamad Iqbal Ariff
 
 How-to:
 1. Open two terminal
+
+
 2. have one execute ./server
+
+
 3. have one execute ./client <filename> <ip> <port>
+
+
 4. refer demo for clearer usage.
 
 # Demo
